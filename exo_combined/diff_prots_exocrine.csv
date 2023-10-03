@@ -1,16 +1,20 @@
 Gene,Description,direction
-Apoa2,Apolipoprotein A-II,up
-Ces2g,Carboxylic ester hydrolase,up
-Dmbt1,Isoform 3 of Deleted in malignant brain tumors 1 protein,up
-Dmbt1,Deleted in malignant brain tumors 1 (Fragment),up
-Dusp23,Dual specificity protein phosphatase 23,up
+Abhd11,Protein ABHD11,down
+Alg11,"GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase",down
+Asrgl1,Isoaspartyl peptidase/L-asparaginase,up
+Atp6ap1,V-type proton ATPase subunit S1,up
+Bcl2l13,Bcl-2-like protein 13,down
 Ehd1,EH domain-containing protein 1,down
-H1-1,Histone H1.1,up
+Gyg1,Glycogenin-1,down
+H1-1,Histone H1.1,down
+HBB,Hemoglobin subunit beta,up
 Inmt,Indolethylamine N-methyltransferase,up
+Krt7,"Keratin, type II cytoskeletal 7",up
 Lamp1,Lysosome-associated membrane glycoprotein 1,up
-Lman2l,VIP36-like protein,down
-Lrrfip1,Leucine-rich repeat flightless-interacting protein 1,down
-Mix23,Protein MIX23,down
-Sco1,"Protein SCO1 homolog, mitochondrial",down
+Mix23,Protein MIX23,up
+Nqo2,Ribosyldihydronicotinamide dehydrogenase [quinone],up
+Psmg1,Proteasome assembly chaperone 1,up
+Ptgr2,Prostaglandin reductase 2,up
+Rps6kb1,Isoform Alpha II of Ribosomal protein S6 kinase beta-1,down
 Slc38a5,Sodium-coupled neutral amino acid transporter 5,down
-Ttc1,Tetratricopeptide repeat protein 1,up
+Top2b,DNA topoisomerase 2-beta,down

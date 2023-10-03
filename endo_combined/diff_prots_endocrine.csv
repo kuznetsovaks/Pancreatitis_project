@@ -1,34 +1,51 @@
 Gene,Description,direction
-Abcc4,Isoform 2 of ATP-binding cassette sub-family C member 4,up
-Atp8b1,Phospholipid-transporting ATPase IC,up
+Aacs,Acetoacetyl-CoA synthetase,up
+Arpp19,cAMP-regulated phosphoprotein 19,down
+Atox1,Copper transport protein ATOX1,up
+Atp2b2,Plasma membrane calcium-transporting ATPase 2,up
 CTSD,Cathepsin D,up
 Casp14,Isoform 2 of Caspase-14,up
+Ccdc127,Coiled-coil domain-containing protein 127,up
+Cdk4,Cyclin-dependent kinase 4,up
+Chmp3,Charged multivesicular body protein 3,up
 Coa3,"Cytochrome c oxidase assembly factor 3 homolog, mitochondrial",down
-Col4a1,Collagen alpha-1(IV) chain,up
-Coro1a,Coronin-1A,down
-Cox7a2,"Cytochrome c oxidase subunit 7A2, mitochondrial",down
-Ethe1,"Persulfide dioxygenase ETHE1, mitochondrial",up
-G6pc2,Glucose-6-phosphatase 2,up
+Commd2,COMM domain-containing protein 2,up
+Ddx50,ATP-dependent RNA helicase DDX50,down
+Dffa,Isoform ICAD-S of DNA fragmentation factor subunit alpha,up
+Dnajb2,DnaJ homolog subfamily B member 2,up
+Ears2,"Probable glutamate--tRNA ligase, mitochondrial",up
+Ethe1,"Persulfide dioxygenase ETHE1, mitochondrial",down
+Fyco1,FYVE and coiled-coil domain-containing protein 1,up
+Galc,Galactocerebrosidase,down
+Gatd1,Glutamine amidotransferase-like class 1 domain-containing protein 1,up
+Ggct,Gamma-glutamylcyclotransferase,up
 Gtf2b,Transcription initiation factor IIB,up
-HBA2,Hemoglobin subunit alpha,up
-Ighv1-31,Immunoglobulin heavy variable 1-31,down
+Hook3,Protein Hook homolog 3,up
+Hspa12b,Heat shock 70 kDa protein 12B,down
+Ik,Protein Red,up
+Irgq,Immunity-related GTPase family Q protein,up
 Krt79,"Keratin, type II cytoskeletal 79",up
 Lars2,"Probable leucine--tRNA ligase, mitochondrial",up
-Mob2,MOB kinase activator 2,up
+Lsm14b,Protein LSM14 homolog B,up
 Mpst,3-mercaptopyruvate sulfurtransferase,up
-Ncor2,Nuclear receptor co-repressor 2,up
-Nt5c,"5'(3')-deoxyribonucleotidase, cytosolic type",up
-Pdx1,Pancreas/duodenum homeobox protein 1,up
-Pdyn,Proenkephalin-B (Fragment),up
-Pon1,Serum paraoxonase/arylesterase 1,up
-Ppp2r1b,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform,up
+Mrpl12,Large ribosomal subunit protein bL12m,up
+Mtor,Serine/threonine-protein kinase mTOR,up
+Mylk,"Isoform 2 of Myosin light chain kinase, smooth muscle",up
+Ngly1,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase,up
+Oxsm,"3-oxoacyl-[acyl-carrier-protein] synthase, mitochondrial",up
+Pacsin1,Protein kinase C and casein kinase substrate in neurons protein 1,up
+Pcyt1a,Choline-phosphate cytidylyltransferase A,up
+Pdia5,Protein disulfide-isomerase A5,up
+Pds5a,Sister chromatid cohesion protein PDS5 homolog A,up
+Pon1,Serum paraoxonase/arylesterase 1,down
+Ppfia1,Ppfia1 protein,up
+Prpf4b,Serine/threonine-protein kinase PRP4 homolog,down
 Psmb8,Proteasome subunit beta type-8,down
+Rragc,Ras-related GTP-binding protein C,down
 SERPINB14,Ovalbumin,down
-Sap18b,Histone deacetylase complex subunit SAP18,up
-Sec13,Protein SEC13 homolog,up
-Smap1,Stromal membrane-associated protein 1,down
+Samhd1,Deoxynucleoside triphosphate triphosphohydrolase SAMHD1,down
+Sec62,Translocation protein SEC62,up
+Spag9,Isoform 2 of C-Jun-amino-terminal kinase-interacting protein 4,up
 St6gal1,"Beta-galactoside alpha-2,6-sialyltransferase 1",up
-Tmed3,Transmembrane emp24 domain-containing protein 3,up
-Tra2a,Transformer-2 protein homolog alpha,up
-Trappc1,Trafficking protein particle complex subunit 1,up
-Trnt1,"CCA tRNA nucleotidyltransferase 1, mitochondrial",up
+Synpr,Isoform 2 of Synaptoporin,up
+Tgm1,Protein-glutamine gamma-glutamyltransferase K,up
