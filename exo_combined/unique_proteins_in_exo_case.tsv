@@ -1,0 +1,107 @@
+	Gene	Description
+0	Plxnb2	Plexin-B2
+1	Tex264	Isoform 2 of Testis-expressed protein 264 homolog
+2	Psmd4	Isoform Rpn10B of 26S proteasome non-ATPase regulatory subunit 4
+3	Dhodh	Dihydroorotate dehydrogenase (quinone), mitochondrial
+4	Ech1	Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial
+5	Npc1	NPC intracellular cholesterol transporter 1
+6	Sptlc1	Serine palmitoyltransferase 1
+7	Rab33b	Ras-related protein Rab-33B
+8	Man2b2	Epididymis-specific alpha-mannosidase
+9	Reps1	Isoform 3 of RalBP1-associated Eps domain-containing protein 1
+10	Ap1g2	AP-1 complex subunit gamma-like 2
+11	Hsd17b7	3-keto-steroid reductase/17-beta-hydroxysteroid dehydrogenase 7
+12	Soat2	Sterol O-acyltransferase 2
+13	Lancl1	Glutathione S-transferase LANCL1
+14	Me1	NADP-dependent malic enzyme
+15	Enpp1	Isoform 1 of Ectonucleotide pyrophosphatase/phosphodiesterase family member 1
+16	Ifi204	Interferon-activable protein 204
+17	Slc6a9	Isoform GlyT-1A of Sodium- and chloride-dependent glycine transporter 1
+18	Arsb	Arylsulfatase B
+19	Stat6	Signal transducer and transcription activator 6
+20	Dsc2	Isoform 2B of Desmocollin-2
+21	Dynll1	Dynein light chain 1, cytoplasmic
+22	Kifap3	Isoform KAP3B of Kinesin-associated protein 3
+23	Casp3	Caspase-3
+24	Nbr1	Next to BRCA1 gene 1 protein
+25	Fhl1	Isoform 2 of Four and a half LIM domains protein 1
+26	Polr2c	DNA-directed RNA polymerase II subunit RPB3
+27	Cxadr	Isoform 2 of Coxsackievirus and adenovirus receptor homolog
+28	Aqp1	Aquaporin-1
+29	Enah	Isoform 1 of Protein enabled homolog
+30	Zc3h18	Zinc finger CCCH domain-containing protein 18
+31	Ppp4r2	Serine/threonine-protein phosphatase 4 regulatory subunit 2
+32	Ankrd33b	Isoform 2 of Ankyrin repeat domain-containing protein 33B
+33	Ppm1h	Protein phosphatase 1H
+34	Phactr4	Isoform 3 of Phosphatase and actin regulator 4
+35	Synrg	Isoform 2 of Synergin gamma
+36	Kat7	Isoform 2 of Histone acetyltransferase KAT7
+37	Cnot7	CCR4-NOT transcription complex subunit 7
+38	Commd3	COMM domain-containing protein 3
+39	Tent4b	Terminal nucleotidyltransferase 4B
+40	Kdsr	3-ketodihydrosphingosine reductase
+41	Szrd1	Isoform 2 of SUZ domain-containing protein 1
+42	Ano6	Anoctamin-6
+43	Armh3	Isoform 2 of Armadillo-like helical domain-containing protein 3
+44	Rigi	Antiviral innate immune response receptor RIG-I
+45	Zc3h4	Isoform 2 of Zinc finger CCCH domain-containing protein 4
+46	Mycbp2	Isoform 2 of E3 ubiquitin-protein ligase MYCBP2
+47	Clasp1	Isoform 2 of CLIP-associating protein 1
+48	Usp8	Ubiquitin carboxyl-terminal hydrolase 8
+49	Col14a1	Isoform 2 of Collagen alpha-1(XIV) chain
+50	Rraga	Ras-related GTP-binding protein A
+51	Trmt61a	tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A
+52	Xylt1	Xylosyltransferase 1
+53	Pgghg	Protein-glucosylgalactosylhydroxylysine glucosidase
+54	Gpr89	Golgi pH regulator
+55	Pwp2	Periodic tryptophan protein 2 homolog
+56	Snx17	Sorting nexin-17
+57	Srek1	Isoform 2 of Splicing regulatory glutamine/lysine-rich protein 1
+58	Cwc22	Isoform 2 of Pre-mRNA-splicing factor CWC22 homolog
+59	Slain2	Isoform 2 of SLAIN motif-containing protein 2
+60	Mcfd2	Multiple coagulation factor deficiency protein 2 homolog
+61	Rfc3	Replication factor C subunit 3
+62	Eml3	Echinoderm microtubule-associated protein-like 3
+63	C8g	Complement component C8 gamma chain
+64	Parn	Poly(A)-specific ribonuclease PARN
+65	Retreg1	Isoform 2 of Reticulophagy regulator 1
+66	Ciapin1	Anamorsin
+67	Rbms1	Isoform 2 of RNA-binding motif, single-stranded-interacting protein 1
+68	Anapc4	Anaphase-promoting complex subunit 4
+69	Wwox	Isoform 4 of WW domain-containing oxidoreductase
+70	Mrpl37	Large ribosomal subunit protein mL37
+71	Imp3	U3 small nucleolar ribonucleoprotein protein IMP3
+72	Rbm10	Isoform 2 of RNA-binding protein 10
+73	Nop10	H/ACA ribonucleoprotein complex subunit 3
+74	Urah	5-hydroxyisourate hydrolase
+75	Atxn3	Ataxin-3
+76	Mrps28	Small ribosomal subunit protein bS1m
+77	Pcbd2	Pterin-4-alpha-carbinolamine dehydratase 2
+78	Srsf9	Serine/arginine-rich splicing factor 9
+79	Snu13	NHP2-like protein 1
+80	Znf706	Zinc finger protein 706
+81	Ciao2b	Cytosolic iron-sulfur assembly component 2B
+82	Mrpl53	Large ribosomal subunit protein mL53
+83	Rabl3	Rab-like protein 3
+84	Shpk	Sedoheptulokinase
+85	Nvl	Nuclear valosin-containing protein-like
+86	Abcb10	ATP-binding cassette sub-family B member 10, mitochondrial
+87	Nudt3	Diphosphoinositol polyphosphate phosphohydrolase 1
+88	Rcl1	RNA 3'-terminal phosphate cyclase-like protein
+89	Tdp2	Tyrosyl-DNA phosphodiesterase 2
+90	Selenok	Selenoprotein K
+91	Cdc42ep4	Cdc42 effector protein 4
+92	Numb	Isoform 2 of Protein numb homolog
+93	Mpp2	Isoform 2 of MAGUK p55 subfamily member 2
+94	Mtmr1	Myotubularin-related protein 1
+95	Top3b	DNA topoisomerase 3-beta-1
+96	Lcmt1	Leucine carboxyl methyltransferase 1
+97	Zbed5	Coiled-coil-helix-coiled-coil-helix domain containing 2-like
+98	Gm20547	Complement C2
+99	Srp54c	Signal recognition particle 54 kDa protein
+100	Diaph2	Diaphanous related formin 2
+101	Syne2	Spectrin repeat containing, nuclear envelope 2
+102	Cabp2	Calcium binding protein 2
+103	Myo15b	Myosin XVB
+104	Mthfsl	5-formyltetrahydrofolate cyclo-ligase
+105	Wdr20	WD repeat domain 20
