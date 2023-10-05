@@ -1,20 +1,68 @@
 Gene,Description,direction
 Abhd11,Protein ABHD11,down
+Actb,"Actin, cytoplasmic 1",down
+Agtpbp1,Isoform 2 of Cytosolic carboxypeptidase 1,down
+Ahnak,AHNAK nucleoprotein (desmoyokin),up
 Alg11,"GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase",down
 Asrgl1,Isoaspartyl peptidase/L-asparaginase,up
 Atp6ap1,V-type proton ATPase subunit S1,up
 Bcl2l13,Bcl-2-like protein 13,down
+Ccdc134,Isoform 2 of Coiled-coil domain-containing protein 134,up
+Ces2g,Carboxylic ester hydrolase,up
+Cgnl1,Isoform 3 of Cingulin-like protein 1,up
+Dmbt1,Isoform 3 of Deleted in malignant brain tumors 1 protein,up
+Dmbt1,Deleted in malignant brain tumors 1 (Fragment),up
 Ehd1,EH domain-containing protein 1,down
+Eif6,Eukaryotic translation initiation factor 6,down
+Emc10,Isoform 2 of ER membrane protein complex subunit 10,up
+Emc7,ER membrane protein complex subunit 7,down
+Fam162a,Protein FAM162A,down
+Fkbp5,Peptidyl-prolyl cis-trans isomerase FKBP5,down
+Gcsh,"Glycine cleavage system H protein, mitochondrial",down
+Gga1,ADP-ribosylation factor-binding protein GGA1,up
+Gnaq,Guanine nucleotide-binding protein G(q) subunit alpha,up
+Gpsm1,Isoform 2 of G-protein-signaling modulator 1,up
 Gyg1,Glycogenin-1,down
 H1-1,Histone H1.1,down
 HBB,Hemoglobin subunit beta,up
+Hdhd5,Haloacid dehalogenase-like hydrolase domain-containing 5,up
+Hsph1,Isoform HSP105-beta of Heat shock protein 105 kDa,down
 Inmt,Indolethylamine N-methyltransferase,up
+Itpa,Inosine triphosphate pyrophosphatase,up
+Krt23,"Keratin, type I cytoskeletal 23",up
 Krt7,"Keratin, type II cytoskeletal 7",up
 Lamp1,Lysosome-associated membrane glycoprotein 1,up
+Lrrfip1,Leucine-rich repeat flightless-interacting protein 1,up
+Mgll,Monoglyceride lipase,up
 Mix23,Protein MIX23,up
+Ndufa1,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1,down
+Necap1,Adaptin ear-binding coat-associated protein 1,up
 Nqo2,Ribosyldihydronicotinamide dehydrogenase [quinone],up
+Nudt21,Cleavage and polyadenylation specificity factor subunit 5,down
+Nup214,Nuclear pore complex protein Nup214,up
+Opa1,"Isoform 2 of Dynamin-like 120 kDa protein, mitochondrial",down
+Pigg,GPI ethanolamine phosphate transferase 2,up
+Ppic,Peptidyl-prolyl cis-trans isomerase C,up
+Ppp1r1b,Protein phosphatase 1 regulatory subunit 1B,down
+Ppp4r4,Isoform 2 of Serine/threonine-protein phosphatase 4 regulatory subunit 4,up
+Prpf19,Isoform 2 of Pre-mRNA-processing factor 19,down
 Psmg1,Proteasome assembly chaperone 1,up
 Ptgr2,Prostaglandin reductase 2,up
+Rab27a,Ras-related protein Rab-27A,down
+Rgn,Regucalcin,down
+Rimoc1,Isoform 2 of RAB7A-interacting MON1-CCZ1 complex subunit 1,up
+Rnps1,Isoform 2 of RNA-binding protein with serine-rich domain 1,up
 Rps6kb1,Isoform Alpha II of Ribosomal protein S6 kinase beta-1,down
+Rragc,Ras-related GTP-binding protein C,down
+Sccpdh,Saccharopine dehydrogenase-like oxidoreductase,down
+Sco1,"Protein SCO1 homolog, mitochondrial",up
+Sil1,Nucleotide exchange factor SIL1,down
+Slc25a45,Solute carrier family 25 member 45,down
 Slc38a5,Sodium-coupled neutral amino acid transporter 5,down
+Snrpd1,Small nuclear ribonucleoprotein Sm D1,up
+Taf15,"TAF15 RNA polymerase II, TATA box binding protein (TBP)-associated factor",up
+Tbc1d4,TBC1 domain family member 4,down
 Top2b,DNA topoisomerase 2-beta,down
+Use1,Vesicle transport protein USE1,down
+Wdr46,WD repeat-containing protein 46,up
+Yif1a,Protein YIF1A,up
